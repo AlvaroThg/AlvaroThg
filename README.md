@@ -10,7 +10,7 @@ My name is Alvaro fabian Baldiviezo Rodriguez. I'm Studying in the Bolivian Cath
 - I always want to help people.
 - I always wanted to be famous :(
 - My email alvarobaldiviezo8@gmail.com 
-- My name is Alvaro, but you can call me ‘‘Alvarito’’
+- You can call me ‘‘Alvarito’’
 - Fun fact: I love to cook and I LOVE, I mean, REALLY LOVE chocolate :D
 
 See ya 
