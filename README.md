@@ -8,8 +8,6 @@ My name is Alvaro fabian Baldiviezo Rodriguez. I'm Studying in the Bolivian Cath
 - I'm **System Engineering** because I would love to work in my own compouter desiging a lot of diferent interntet websites, another option would be to be a part of a     big group of programmers in a big company like **Microsoft**
 - I want to design or create a robot to help the people with health problems
 - I always want to help people.
-- I always wanted to be famous :(
-- My email alvarobaldiviezo8@gmail.com 
 - You can call me ‘‘Alvarito’’
 - Fun fact: I love to cook and I LOVE, I mean, REALLY LOVE chocolate :D
 
