@@ -54,9 +54,9 @@ My main focus is **backend development and software architecture**, designing sy
 
 ## 📊 GitHub Stats
 
-![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight)
+![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroThg&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroThg&layout=compact&theme=tokyonight)
 
 ---
 
