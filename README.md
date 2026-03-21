@@ -78,14 +78,6 @@ My main focus is **backend development and software architecture**, designing sy
 
 ## 🏆 Projects
 
-### 🚚 Satélite Delivery
-Scalable delivery system with role-based architecture and modular backend design.  
-- ERD design (MySQL)  
-- Multi-role authentication system  
-- Focus on scalability and maintainability  
-
----
-
 ### 🅿️ Smart Parking IoT
 IoT-based smart parking solution for real-time monitoring.  
 - System architecture design  
