@@ -1,32 +1,54 @@
 # 👨‍💻 Álvaro Fabián Baldiviezo Rodríguez
 
-**Systems Engineering Student | Software Developer | Backend & Systems Enthusiast**
+**Systems Engineering Student | Software Developer | Backend & Systems Architecture**
 
 ---
 
 ## 🚀 About Me
 
-I am a **Systems Engineering student** based in Bolivia 🇧🇴, focused on building scalable, efficient, and meaningful software systems.  
+I am a **Systems Engineering student** based in Bolivia 🇧🇴, focused on building scalable, efficient, and meaningful software systems.
 
-I am passionate about **backend development, system architecture, and IoT**, always aiming to create solutions that solve real-world problems and improve people's lives.
+My main focus is **backend development and software architecture**, designing systems that are maintainable, robust, and ready to scale. I am also interested in IoT and technologies that create real-world impact.
+
+---
+
+## 🧠 Technical Focus
+
+- Software Architecture & System Design  
+- Backend Development & API Design  
+- Scalable Systems & Database Modeling  
+- Authentication Systems (OAuth, Google Sign-In)  
+- IoT Solutions  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ Backend & Tools
+---
+
+### ⚙️ Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
+
+### 🏗️ Architecture & Tools
+![Software Architecture](https://img.shields.io/badge/Architecture-System%20Design-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔐 Authentication & Others
-![Google Auth](https://img.shields.io/badge/Google%20Auth-OAuth2-red?style=for-the-badge&logo=google)
 
 ---
 
@@ -57,35 +79,35 @@ I am passionate about **backend development, system architecture, and IoT**, alw
 ## 🏆 Projects
 
 ### 🚚 Satélite Delivery
-Scalable delivery system with role-based users, store management, and order tracking.  
-- ERD design (MySQL)
-- Multi-role authentication (client, courier, store owner)
-- Scalable backend architecture  
+Scalable delivery system with role-based architecture and modular backend design.  
+- ERD design (MySQL)  
+- Multi-role authentication system  
+- Focus on scalability and maintainability  
 
 ---
 
 ### 🅿️ Smart Parking IoT
-IoT-based smart parking solution focused on real-time monitoring and optimization.  
-- Sensor integration concepts  
-- Data visualization  
+IoT-based smart parking solution for real-time monitoring.  
 - System architecture design  
+- Sensor-based data modeling  
+- Efficiency optimization  
 
 ---
 
 ### 🔐 License Management System
-Web system for managing licenses with authentication and automation.  
+Web-based system with authentication and process automation.  
 - Google Sign-In integration  
-- Email notification system  
-- Data validation and automation  
+- Email automation  
+- Data validation and workflow control  
 
 ---
 
 ## 🎯 Professional Goals
 
 - Become a highly skilled **Software Engineer**  
-- Work on **large-scale systems**  
-- Build impactful solutions combining **software + IoT**  
-- Continuously improve in **architecture and backend development**  
+- Specialize in **Software Architecture & Backend Systems**  
+- Build scalable and impactful systems  
+- Work on projects combining **software + IoT**  
 
 ---
 
@@ -93,8 +115,8 @@ Web system for managing licenses with authentication and automation.
 
 - Problem-solving mindset  
 - Continuous learning  
+- Clean and scalable code  
 - Technology with purpose  
-- Discipline and consistency  
 
 ---
 
