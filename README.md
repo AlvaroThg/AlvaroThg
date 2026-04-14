@@ -1,24 +1,29 @@
 # 👨‍💻 Álvaro Fabián Baldiviezo Rodríguez
 
-**Systems Engineering Student | Software Developer | Backend & Systems Architecture**
+**Systems Engineering Student | Backend & Software Architecture Engineer | IoT Enthusiast**
+
+![Banner](https://via.placeholder.com/1200x300/0A2540/FFFFFF?text=Building+Scalable+Systems+with+Purpose)  
+*(Reemplaza con tu propio banner personalizado – te recomiendo Canva o GitHub Banner generators)*
 
 ---
 
 ## 🚀 About Me
 
-I am a **Systems Engineering student** based in Bolivia 🇧🇴, focused on building scalable, efficient, and meaningful software systems.
+Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Católica Boliviana San Pablo** 🇧🇴, apasionado por diseñar sistemas backend escalables, mantenibles y de alto impacto.  
 
-My main focus is **backend development and software architecture**, designing systems that are maintainable, robust, and ready to scale. I am also interested in IoT and technologies that create real-world impact.
+Me especializo en **arquitectura de software y desarrollo backend**, creando soluciones que no solo funcionan, sino que están preparadas para crecer. También me encanta combinar software con **IoT** para resolver problemas del mundo real.  
+
+Con certificación de inglés **B2 (Upper Intermediate)** por el Centro Boliviano Americano y EDUSOFT, me desenvuelvo con confianza en entornos internacionales y documentación técnica.
 
 ---
 
 ## 🧠 Technical Focus
 
 - Software Architecture & System Design  
-- Backend Development & API Design  
+- Backend Development & API Design (REST + GraphQL)  
 - Scalable Systems & Database Modeling  
-- Authentication Systems (OAuth, Google Sign-In)  
-- IoT Solutions  
+- Authentication & Authorization (OAuth2, Google Sign-In)  
+- IoT Solutions & Real-time Systems  
 
 ---
 
@@ -31,21 +36,12 @@ My main focus is **backend development and software architecture**, designing sy
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
----
-
-### 🏗️ Architecture & Tools
-![Software Architecture](https://img.shields.io/badge/Architecture-System%20Design-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,73 +50,86 @@ My main focus is **backend development and software architecture**, designing sy
 
 ## 📊 GitHub Stats
 
-![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroThg&show_icons=true&theme=tokyonight)
+![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroThg&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroThg&layout=compact&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroThg&layout=compact&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlvaroThg&theme=tokyonight&no-frame=true)
 
 ---
 
 ## 📚 Education
 
-- 🎓 **Systems Engineering** — Bolivian Catholic University  
-- 🏫 High School — San Bernardo de Tarija  
+- 🎓 **Ingeniería de Sistemas** — Universidad Católica Boliviana San Pablo  
+- 🏫 Bachiller — Colegio San Bernardo de Tarija
 
 ---
 
 ## 🌐 Languages
 
-- 🇪🇸 Spanish — Native  
-- 🇬🇧 English — **B2 Level (Upper Intermediate)**  
-  - Centro Boliviano Americano (CBA)  
-  - EDUSOFT Level 6 P2 (Intermediate 3)  
+- 🇪🇸 Español — Nativo  
+- 🇬🇧 Inglés — **B2 Upper Intermediate** (Centro Boliviano Americano + EDUSOFT Level 6 P2)
 
 ---
 
-## 🏆 Projects
+## 🏆 Featured Projects
 
 ### 🅿️ Smart Parking IoT
-IoT-based smart parking solution for real-time monitoring.  
-- System architecture design  
-- Sensor-based data modeling  
-- Efficiency optimization  
+Sistema IoT de estacionamiento inteligente con monitoreo en tiempo real.
 
----
+- Diseño completo de arquitectura del sistema  
+- Modelado de datos con sensores y procesamiento en tiempo real  
+- Optimización de eficiencia y escalabilidad  
+
+**Tecnologías:** Go / Node.js + TypeScript, Docker, Firebase, sensores IoT  
+**[→ Ver repositorio](https://github.com/AlvaroThg/smart-parking-iot)** *(reemplaza con tu link real)*  
+*(Agrega aquí una captura o GIF del dashboard)*
 
 ### 🔐 License Management System
-Web-based system with authentication and process automation.  
-- Google Sign-In integration  
-- Email automation  
-- Data validation and workflow control  
+Sistema web completo con autenticación y automatización de procesos.
+
+- Integración de Google Sign-In y OAuth2  
+- Automatización de correos y flujos de aprobación  
+- Validación de datos y control de workflows  
+
+**Tecnologías:** Next.js, TypeScript, MySQL, Firebase  
+**[→ Ver repositorio](https://github.com/AlvaroThg/license-management)** *(reemplaza con tu link real)*  
+*(Agrega captura del sistema aquí)*
 
 ---
 
 ## 🎯 Professional Goals
 
-- Become a highly skilled **Software Engineer**  
-- Specialize in **Software Architecture & Backend Systems**  
-- Build scalable and impactful systems  
-- Work on projects combining **software + IoT**  
+- Convertirme en **Software Engineer** especializado en Arquitectura de Sistemas  
+- Diseñar soluciones backend de alto rendimiento y escalables  
+- Desarrollar proyectos que combinen software + IoT con impacto real  
 
 ---
 
 ## 🧩 Core Values
 
-- Problem-solving mindset  
-- Continuous learning  
-- Clean and scalable code  
-- Technology with purpose  
+- Mindset de resolución de problemas  
+- Código limpio y escalable  
+- Aprendizaje continuo  
+- Tecnología con propósito  
 
 ---
 
 ## ⚡ Personal Interests
 
-- 🎸 Guitar & music  
+- 🎸 Guitarra y música  
 - 🎮 Gaming  
-- 🍳 Cooking  
+- 🍳 Cocina  
 - 🍫 Chocolate enthusiast  
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect!
 
-Open to collaboration, learning opportunities, and meaningful projects.
+**Abierto a colaboraciones, oportunidades de aprendizaje y proyectos interesantes.**
+
+- [LinkedIn](https://www.linkedin.com/in/TU-USUARIO) *(pon tu link real)*  
+- [Email](mailto:tuemail@ejemplo.com)  
+
+---
+
+*Last updated: Abril 2026*
