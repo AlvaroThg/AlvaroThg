@@ -45,6 +45,7 @@ Con certificación de inglés **B2 (Upper Intermediate)** por el Centro Bolivian
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL]
 
 ---
 
