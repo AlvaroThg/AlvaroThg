@@ -2,7 +2,7 @@
 
 **Systems Engineering Student | Backend & Software Architecture Engineer | IoT Enthusiast**
 
-![Banner](./Banner.png)  
+![Banner](./assets/Banner.png)  
 
 
 ---
