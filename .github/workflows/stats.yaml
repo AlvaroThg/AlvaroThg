@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=AlvaroBaldiviezo&show_icons=true&theme=tokyonight
+          options: username=AlvaroThg&show_icons=true&theme=tokyonight
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=AlvaroBaldiviezo&layout=compact&langs_count=6&theme=tokyonight
+          options: username=AlvaroThg&layout=compact&langs_count=6&theme=tokyonight
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
