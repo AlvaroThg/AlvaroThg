@@ -1,0 +1,31 @@
+name: GitHub Stats Generator
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate Stats
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          username: AlvaroThg
+          output_dir: assets
+          theme: tokyonight
+          cards: "stats,top-langs"
+          top_languages_layout: compact
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "update stats"
