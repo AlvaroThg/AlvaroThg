@@ -51,9 +51,12 @@ Con certificación de inglés **B2 (Upper Intermediate)** por el Centro Bolivian
 
 ## 📊 GitHub Stats
 
-![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroThg&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroThg&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
+</p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroThg&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlvaroThg&theme=tokyonight&no-frame=true)
 
 ---
