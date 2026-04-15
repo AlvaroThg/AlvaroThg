@@ -23,7 +23,8 @@ Con certificación de inglés **B2 (Upper Intermediate)** por el Centro Bolivian
 - Backend Development & API Design (REST + GraphQL)  
 - Scalable Systems & Database Modeling  
 - Authentication & Authorization (OAuth2, Google Sign-In)  
-- IoT Solutions & Real-time Systems  
+- IoT Solutions & Real-time Systems
+- DevOps
 
 ---
 
