@@ -2,7 +2,7 @@
 
 **Systems Engineering Student | Backend & Software Architecture Engineer | IoT Enthusiast**
 
-![Banner](https://via.placeholder.com/1200x300/0A2540/FFFFFF?text=Building+Scalable+Systems+with+Purpose)  
+![Banner]([https://via.placeholder.com/1200x300/0A2540/FFFFFF?text=Building+Scalable+Systems+with+Purpose](https://canva.link/ar8s0pfmxx1kpig))  
 *(Reemplaza con tu propio banner personalizado – te recomiendo Canva o GitHub Banner generators)*
 
 ---
