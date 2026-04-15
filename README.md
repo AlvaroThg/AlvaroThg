@@ -128,8 +128,8 @@ Sistema web completo con autenticación y automatización de procesos.
 
 **Abierto a colaboraciones, oportunidades de aprendizaje y proyectos interesantes.**
 
-- [LinkedIn](https://www.linkedin.com/in/TU-USUARIO) *(pon tu link real)*  
-- [Email](mailto:tuemail@ejemplo.com)  
+- [LinkedIn](www.linkedin.com/in/alvarofabianbaldiviezorodriguez) 
+- [Email](mailto:alvarobaldiviezo8@gmail.com)  
 
 ---
 
