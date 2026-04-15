@@ -82,8 +82,8 @@ Sistema IoT de estacionamiento inteligente con monitoreo en tiempo real.
 - Optimización de eficiencia y escalabilidad  
 
 **Tecnologías:** Go / Node.js + TypeScript, Docker, Firebase, sensores IoT  
-**[→ Ver repositorio](https://github.com/AlvaroThg/smart-parking-iot)** *(reemplaza con tu link real)*  
-*(Agrega aquí una captura o GIF del dashboard)*
+**[→ Ver repositorio](https://github.com/AlvaroThg/smart-parking-iot)** 
+
 
 ### 🔐 License Management System
 Sistema web completo con autenticación y automatización de procesos.
@@ -93,8 +93,8 @@ Sistema web completo con autenticación y automatización de procesos.
 - Validación de datos y control de workflows  
 
 **Tecnologías:** Next.js, TypeScript, MySQL, Firebase  
-**[→ Ver repositorio](https://github.com/AlvaroThg/license-management)** *(reemplaza con tu link real)*  
-*(Agrega captura del sistema aquí)*
+**[→ Ver repositorio](https://github.com/AlvaroThg/license-management)** 
+
 
 ---
 
