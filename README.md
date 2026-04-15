@@ -2,7 +2,7 @@
 
 **Systems Engineering Student | Backend & Software Architecture Engineer | IoT Enthusiast**
 
-![Banner](Black Minimalist Linkedin Banner.png)  
+![Banner](./Banner.png)  
 
 
 ---
