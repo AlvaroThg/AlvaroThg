@@ -1,36 +1,35 @@
 # 👨‍💻 Álvaro Fabián Baldiviezo Rodríguez
 
-**Systems Engineering Student | Backend & Software Architecture Engineer | IoT Enthusiast**
+**Systems Engineering Student | Frontend & Backend Engineer | DevOps enthusiast | Python & Power BI**
 
-![Banner](./assets/Banner.png)  
-
+![Banner](./assets/Banner.png)
 
 ---
 
 ## 🚀 About Me
 
-Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Católica Boliviana San Pablo** 🇧🇴, apasionado por diseñar sistemas backend escalables, mantenibles y de alto impacto.  
+I am a **Systems Engineering student** at *Universidad Católica Boliviana San Pablo* 🇧🇴, with a strong focus on **data analysis, backend development, and scalable systems**.
 
-Me especializo en **arquitectura de software y desarrollo backend**, creando soluciones que no solo funcionan, sino que están preparadas para crecer. También me encanta combinar software con **IoT** para resolver problemas del mundo real.  
+I enjoy working at the intersection of **data and software**, using tools like **Python and Power BI** to extract insights and build solutions that scale. I also have experience designing backend architectures and APIs, which helps me approach data problems with a structured and systems-oriented mindset.
 
-Con certificación de inglés **B2 (Upper Intermediate)** por el Centro Boliviano Americano y EDUSOFT, me desenvuelvo con confianza en entornos internacionales y documentación técnica.
+I hold a **B2 (Upper Intermediate) English certification**, and I am comfortable working in international and technical environments.
 
 ---
 
 ## 🧠 Technical Focus
 
-- Software Architecture & System Design  
-- Backend Development & API Design (REST + GraphQL)  
-- Scalable Systems & Database Modeling  
-- Authentication & Authorization (OAuth2, Google Sign-In)  
-- IoT Solutions & Real-time Systems
-- DevOps
+* Data Analysis & Data Processing (Python)
+* Data Visualization (Power BI)
+* Backend Development & API Design (REST / GraphQL)
+* System Design & Scalable Architectures
+* Database Modeling & Optimization
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -50,88 +49,90 @@ Con certificación de inglés **B2 (Upper Intermediate)** por el Centro Bolivian
 
 ---
 
+### ⚙️ Tools & Frameworks
+
+Keep what you have, but mentally prioritize:
+
+* Python ecosystem (pandas, etc. — add later if applies)
+* Power BI
+
+---
+
+### 🗄️ Databases
+
+OK as is ✅
+
+---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="./assets/github-stats.svg" alt="GitHub Stats" height="165" />
-  <img src="./assets/top-langs.svg" alt="Top Languages" height="165" />
-</p>
+(keep as is)
 
 ---
 
 ## 📚 Education
 
-- 🎓 **Ingeniería de Sistemas** — Universidad Católica Boliviana San Pablo  
-- 🏫 Bachiller — Colegio San Bernardo de Tarija
+* 🎓 **B.Sc. in Systems Engineering** — Universidad Católica Boliviana San Pablo *(Expected graduation: 2027)*
 
 ---
 
 ## 🌐 Languages
 
-- 🇪🇸 Español — Nativo  
-- 🇬🇧 Inglés — **B2 Upper Intermediate** (Centro Boliviano Americano + EDUSOFT Level 6 P2)
+* 🇪🇸 Spanish — Native
+* 🇬🇧 English — **B2 Upper Intermediate**
 
 ---
 
 ## 🏆 Featured Projects
 
 ### 🅿️ Smart Parking IoT
-Sistema IoT de estacionamiento inteligente con monitoreo en tiempo real.
 
-- Diseño completo de arquitectura del sistema  
-- Modelado de datos con sensores y procesamiento en tiempo real  
-- Optimización de eficiencia y escalabilidad  
+Smart parking system with real-time monitoring.
 
-**Tecnologías:** Go / Node.js + TypeScript, Docker, Firebase, sensores IoT  
-**[→ Ver repositorio](https://github.com/AlvaroThg/smart-parking-iot)** 
+* Designed system architecture
+* Real-time data handling from IoT sensors
+* Scalable backend approach
 
+**Tech:** Go, Node.js, TypeScript, Docker, Firebase
+**[→ View Repository](https://github.com/AlvaroThg/smart-parking-iot)**
+
+---
 
 ### 🔐 License Management System
-Sistema web completo con autenticación y automatización de procesos.
 
-- Integración de Google Sign-In y OAuth2  
-- Automatización de correos y flujos de aprobación  
-- Validación de datos y control de workflows  
+* Google Sign-In & OAuth2 integration
+* Workflow automation
+* Data validation & backend logic
 
-**Tecnologías:** Next.js, TypeScript, MySQL, Firebase  
-**[→ Ver repositorio](https://github.com/AlvaroThg/license-management)** 
-
+**Tech:** Next.js, TypeScript, MySQL, Firebase
+**[→ View Repository](https://github.com/AlvaroThg/license-management)**
 
 ---
 
 ## 🎯 Professional Goals
 
-- Convertirme en **Software Engineer** especializado en Arquitectura de Sistemas  
-- Diseñar soluciones backend de alto rendimiento y escalables  
-- Desarrollar proyectos que combinen software + IoT con impacto real  
+* Become a **DevOps / Software Architect**
+* Build scalable, data-driven systems
+* Work on impactful, real-world technology solutions
 
 ---
 
 ## 🧩 Core Values
 
-- Mindset de resolución de problemas  
-- Código limpio y escalable  
-- Aprendizaje continuo  
-- Tecnología con propósito  
-
----
-
-## ⚡ Personal Interests
-
-- 🎸 Guitarra y música  
-- 🎮 Gaming  
-- 🍳 Cocina  
-- 🍫 Chocolate enthusiast  
+* Problem-solving mindset
+* Clean, scalable code
+* Continuous learning
+* Purpose-driven technology
 
 ---
 
 ## 📫 Let's Connect!
 
-**Abierto a colaboraciones, oportunidades de aprendizaje y proyectos interesantes.**
-
-- [LinkedIn](www.linkedin.com/in/alvarofabianbaldiviezorodriguez) 
-- [Email](mailto:alvarobaldiviezo8@gmail.com)  
+* [LinkedIn](https://www.linkedin.com/in/alvarofabianbaldiviezorodriguez)
+* [Email](mailto:alvarobaldiviezo8@gmail.com)
 
 ---
 
-*Last updated: Abril 2026*
+*Last updated: April 2026*
+
+---
